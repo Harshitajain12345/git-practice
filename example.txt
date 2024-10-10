@@ -1,3 +1,8 @@
 hello ! this is harshita 
 hello git !
+<<<<<<< HEAD
 master brach change
+=======
+new change
+feature branch change
+>>>>>>> feature
